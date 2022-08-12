@@ -1,0 +1,67 @@
+[
+    {
+      "title": "Rest",
+      "done": true
+    },
+    {
+      "title": "cook my dinner",
+      "done": false
+    },
+    {
+      "title": "Personal clean",
+      "done": false
+    },
+    {
+      "title": "Arrive to my job",
+      "done": false
+    },
+    {
+      "title": "Go out for lunch break",
+      "done": false
+    },
+    {
+      "title": "back to work",
+      "done": false
+    },
+    {
+      "title": "Go out of job",
+      "done": false
+    },
+    {
+      "title": "Arrive to my home",
+      "done": false
+    },
+    {
+      "title": "Clean my house",
+      "done": false
+    },
+    {
+      "title": "Play Guitar",
+      "done": false
+    },
+    {
+      "title": "Imporve my Tech Stack",
+      "done": false
+    },
+    {
+      "title": "Take  dinner",
+      "done": false
+    },
+    {
+      "title": "Read a book",
+      "done": false
+    },
+    {
+      "title": "Beign Confortable",
+      "done": false
+    },
+    {
+      "title": "Networking",
+      "done": false
+    },
+    {
+      "title": "Sleep",
+      "done": true
+    }
+  ]
+  
